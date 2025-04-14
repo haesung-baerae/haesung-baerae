@@ -1,7 +1,11 @@
 ## Hi there 👋
 # 가장 큰 제목
-## 중간 큰 젬고
+## 중간 큰 제목
 ### 제목 
+## 마크다운 테스트
+  - 목록1
+    - 목록2
+    
 <!--
 **haesung-baerae/haesung-baerae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
