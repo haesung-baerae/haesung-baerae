@@ -3,10 +3,13 @@
   - [코드보기](https://github.com/haesung-baerae/chatbot_unse001.git)
    <img src = 'https://i.imgur.com/6OGP7l1.png' width = 100 height = 100>
 
-<a href="https://github.com/haesung-baerae/chatbot_unse001.git" target="_blank">
-  <img src="https://i.imgur.com/6OGP7l1.png" alt="이미지 설명" width="100" style="display:inline-block; vertical-align:middle;">
-</a>
-<a href="https://github.com/haesung-baerae/chatbot_unse001.git" target="_blank" style="display:inline-block; vertical-align:middle; margin-left:10px;">코드 보러가기</a>
+<div style="display: flex; align-items: center; gap: 12px;">
+  <img src="https://i.imgur.com/6OGP7l1.png" alt="오늘, 별이 뭐래?" width="80">
+  <a href="https://github.com/haesung-baerae/chatbot_unse001.git" target="_blank" style="font-size: 16px; text-decoration: none; color: #1e90ff;">
+    코드 보러가기
+  </a>
+</div>
+
 
 
 ## 중간 큰 제목
