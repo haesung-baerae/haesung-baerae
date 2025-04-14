@@ -1,5 +1,8 @@
 ## Hi there 👋
-# 가장 큰 제목
+# [프로젝트] 운세 공유(streamlit, kakao API, openai API)
+  - [코드보기](<img src = 'https://github.com/haesung-baerae/chatbot_unse001.git' width = 30 height = 30>)
+  - <img src = 'https://i.imgur.com/6OGP7l1.png' width = 100 height = 100>
+
 ## 중간 큰 제목
 ### 제목 
 ## 마크다운 테스트
@@ -7,7 +10,7 @@
     - 목록2
 ### 링크 연결하기
   - [이동](https://www.daum.net/)
-<img src = 'https://i.imgur.com/6OGP7l1.png' width = 30 height = 30>
+
 
 <!--
 **haesung-baerae/haesung-baerae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
