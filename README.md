@@ -7,6 +7,8 @@
     - 목록2
 ### 링크 연결하기
   - [이동](https://www.daum.net/)
+<img src = 'https://i.imgur.com/6OGP7l1.png' width = 30 height = 30>
+
 <!--
 **haesung-baerae/haesung-baerae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
