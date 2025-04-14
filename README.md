@@ -1,7 +1,7 @@
 ## Hi there 👋
 # [프로젝트] 운세 공유(streamlit, kakao API, openai API)
-  - [코드보기](<img src = 'https://github.com/haesung-baerae/chatbot_unse001.git' width = 30 height = 30>)
-  - <img src = 'https://i.imgur.com/6OGP7l1.png' width = 100 height = 100>
+  - [코드보기](https://github.com/haesung-baerae/chatbot_unse001.git)
+   <img src = 'https://i.imgur.com/6OGP7l1.png' width = 100 height = 100>
 
 ## 중간 큰 제목
 ### 제목 
