@@ -1,5 +1,5 @@
 ## Hi there 👋
-### [프로젝트] 운세 공유(streamlit, kakao API, openai API)
+### [프로젝트] 오늘, 별이 뭐래?(streamlit, kakao API, openai API)
 - <img src='https://i.imgur.com/6OGP7l1.png' width=70 height=70>
 - 생년월일을 넣으면 오늘의 운세를 간단하게 알려주고, 카카오톡으로 친구와 공유할 수 있어요!
 - [코드 보러가기](https://github.com/haesung-baerae/chatbot_unse001.git)
